@@ -1,0 +1,10 @@
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\bin\Debug\TD2-Csharp.exe.config
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2-Csharp.csprojResolveAssemblyReference.cache
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2_Csharp.LeTD2.resources
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2_Csharp.Properties.Resources.resources
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2-Csharp.csproj.GenerateResource.Cache
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\bin\Debug\TD2-Csharp.exe
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\bin\Debug\TD2-Csharp.pdb
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\bin\Debug\libBanque.dll
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2-Csharp.exe
+F:\BTS_SIO_2\SLAM-4-5\Programmation Objet\C#\TD2-Csharp\TD2-Csharp\obj\Debug\TD2-Csharp.pdb
